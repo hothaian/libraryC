@@ -1,1 +1,2 @@
 # libraryC
+hello copy
